@@ -6,3 +6,11 @@ let instructor = {
     numberOfRepos: 200,
   },
 };
+
+ //Menawer
+ 
+ //JavaScript
+ 
+ //careless10
+
+ console.log
